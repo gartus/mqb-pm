@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="activity_credits_title">Créditos</string>
-    <string name="activity_main_title">Información Sport</string>
-    <string name="activity_settings_title">Config. del monitor de desempeño</string>
+    <string name="activity_main_title">Performance Monitor</string>
+    <string name="activity_settings_title">Performance Monitor</string>
     <string name="activity_stopwatch_title">Cronómetro</string>
-    <string name="app_car_service_name">Información Sport</string>
-    <string name="app_name">Monitor de desempeño para AA</string>
+    <string name="app_car_service_name">Performance Monitor</string>
+    <string name="app_name">Performance Monitor</string>
     <string name="credits_author">Esta aplicación la ha creado:</string>
     <string name="credits_basedon">Basada en el SDK y la aplicación demo de:</string>
     <string name="credits_drivesafely">Conduzca con precaución.</string>
@@ -43,8 +43,9 @@
 
     <string name="kick_uploads_done">Subidas programadas.</string>
     <string name="kick_uploads_nothing_to_do">Todas las subidas completadas.</string>
-    <string name="notification_oil_text">Se alcanzó la temperatura operacional del aceite motor.</string>
-    <string name="notification_oil_title">Temperatura del aceite</string>
+    <string name="notification_oil_text">Se alcanzó la temperatura de trabajo del motor.</string>
+    <string name="notification_high_oil_text">Temperatura del motor MUY alta!! !</string>
+    <string name="notification_oil_title">Temperatura del motor</string>
     <string name="pref_appearance">Apariencia</string>
     <string name="pref_bigquery_dataset_title">Nombre del dato</string>
     <string name="pref_bigquery_project_id_title">Nombre del proyecto</string>
@@ -74,6 +75,7 @@
     <string name="pref_oil_temp_monitoring_summary">Mostrar notificación cuando se alcance la temperatura operacional del aceite motor.</string>
     <string name="pref_oil_temp_monitoring_title">Monitor de temperatura del aceite</string>
     <string name="pref_oil_temp_threshold_title">Temperatura operacional del aceite</string>
+    <string name="pref_max_op_temp_threshold_title">Temperatura máxima operacional del motor</string>
     <string name="pref_pressureunit">Unidad de presión</string>
     <string name="pref_providers">Proveedores de telemetría</string>
     <string name="pref_providers_category_title">Proveedores de telemetría</string>

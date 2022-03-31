@@ -4,6 +4,7 @@
     <string-array name="Themes">
         <item>VW</item>
         <item>VW GTI</item>
+        <item>VW GTI Stock</item>
         <item>VW R/GTE</item>
         <item>VW MIB2</item>
         <item>VW AID</item>
@@ -27,6 +28,7 @@
 
     <array name="ThemesThumbs">
         <item>@drawable/ic_theme_vw</item>
+        <item>@drawable/ic_theme_vwclubsport</item>
         <item>@drawable/ic_theme_vwgti</item>
         <item>@drawable/ic_theme_vwgte</item>
         <item>@drawable/ic_theme_vwmib2</item>
@@ -115,6 +117,7 @@
         <item>@string/element_torque_fuellevel</item>
         <item>@string/element_torque_voltagemodule</item>
         <item>@string/element_torque_oiltemperature</item>
+        <item>@string/element_torque_oiltemperatureGTI</item>
         <item>@string/element_torque_transmissiontemp</item>
         <item>@string/element_torque_transmissiontemp2</item>
         <item>@string/element_torque_pressurecontrol</item>
@@ -203,6 +206,7 @@
 
         <item>torque-voltagemodule_0x42</item>
         <item>torque-oiltemperature_0x5c</item>
+        <item>torque-oiltemperature_0x22202f</item>
         <item>torque-transmissiontemp_0x0105</item>
         <item>torque-transmissiontemp_0xfe1805</item>
         <item>torque-pressurecontrol_0x70</item>
@@ -261,6 +265,7 @@
         <item>@drawable/ic_exlap</item>
         <item>@drawable/ic_exlap</item>
         <item>@drawable/ic_exlap</item>
+        <item>@drawable/ic_torque</item>
         <item>@drawable/ic_torque</item>
         <item>@drawable/ic_torque</item>
         <item>@drawable/ic_torque</item>
@@ -390,6 +395,7 @@
         <item>@string/element_torque_o2sensor1equivalenceratio</item>
         <item>@string/element_torque_obdadaptervoltage</item>
         <item>@string/element_torque_oiltemperature</item>
+        <item>@string/element_torque_oiltemperatureGTI</item>
         <item>@string/element_torque_phonebarometer</item>
         <item>@string/element_torque_phonebatterylevel</item>
         <item>@string/element_torque_pressurecontrol</item>
@@ -492,6 +498,7 @@
         <item>torque-o2sensor1equivalenceratio_0x34</item>
         <item>torque-obdadaptervoltage_0xff1238</item>
         <item>torque-oiltemperature_0x5c</item>
+        <item>torque-oiltemperature_0x22202f</item>
         <item>torque-phonebarometer_0xff1270</item>
         <item>torque-phonebatterylevel_0xff129a</item>
         <item>torque-pressurecontrol_0x70</item>
@@ -548,6 +555,8 @@
         <item>@drawable/ic_exlap</item>
         <item>@drawable/ic_exlap</item>
         <item>@drawable/ic_exlap</item>
+        <item>@drawable/ic_torque</item>
+        <item>@drawable/ic_torque</item>
         <item>@drawable/ic_torque</item>
         <item>@drawable/ic_torque</item>
         <item>@drawable/ic_torque</item>
